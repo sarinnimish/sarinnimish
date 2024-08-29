@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on [PodCaster](https://github.com/sarinnimish/PodCaster)
 
-- 🌱 I’m currently learning **Node JS, React**
+- 🌱 I’m currently learning **DSA**
+
+- 👯 I’m looking to collaborate on OpenSource Projects
 
 - 👨‍💻 All of my projects are available at [https://sarinnimish.github.io/Personal-Portfolio/](https://sarinnimish.github.io/Personal-Portfolio/)
 
