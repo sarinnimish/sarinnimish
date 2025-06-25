@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 
-- 🔭 I’m currently working in [CodeTrade.io]((https://www.codetrade.io/))
+- 🔭 I’m currently working in [CodeTrade.io](https://www.codetrade.io/)
 
 - 🌱 I’m currently learning **FULL STACK DEVELOPMENT**
 
